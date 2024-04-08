@@ -1,0 +1,354 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.one{
+    display: flex;
+    margin-left: 5%;
+    border-bottom: 1px solid;
+    width: 90%;
+    height: 100px;
+    margin-top: 2%;
+}
+.phn{
+    width: 3%;
+    height: 55%;
+    border-radius: 6px;
+    margin-top: 18px;
+}
+.phn-logo{
+    width: 100%;
+    height: 100%;
+}
+.support-text{
+
+    height: 55%;
+    width:auto;
+    color: rgb(133, 133, 133);
+    text-align: center;
+    font-size: 20px;
+    margin-top: 18px;
+}
+.anto{
+
+    border-radius: 12px;
+    height: 40%;
+    width: auto;
+    font-size: 40px;
+    font-weight: bolder;
+    justify-content: center;
+    padding: 12px;
+    color: white;
+    background-color: rgb(92, 225, 192);
+    margin-top: 18px;
+    margin-left: 30%;
+
+}
+
+.anto p{
+    margin-top: 2%;
+    justify-content: center;
+}
+.oned{
+    margin-left: 18%;
+    color: rgb(133, 133, 133);
+    font-size: auto;
+    height: 30%;
+    margin-top: 28px;
+    cursor: pointer;
+}
+.onee{
+    margin-left: 2%;
+    display: inline-block;
+    height: 25%;
+    width: auto;
+    margin-top: 36px;
+
+}
+.ione{
+    height: 100%;
+
+    margin-left: 4px;
+    cursor: pointer;
+
+}
+.itwo{
+    height: 100%;
+ 
+    margin-left: 8px;
+    cursor: pointer;
+}
+.ithree{
+    height: 100%;
+    margin-left: 8px;
+    cursor: pointer;
+}
+.ifour{
+    height: 100%;
+
+    margin-left: 8px;
+    cursor: pointer;
+}
+.two{
+    display: flex;
+    border-bottom: 1px solid;
+    margin-left: 5%;
+    margin-top: 5px;
+    height: 120px;
+    width: 90%;
+}
+.twoa{
+    border: none;
+    display: flex;
+    height: 100%;
+    width: 20%;
+}
+.twoa-search{
+    border: 1px solid;
+    width: 75%;
+    margin-top: 10%;
+    font-size: 26px;
+}
+.twob{
+    display: flex;
+    border: none;
+    height: 100%;
+    width: 60%;
+    align-items: center;
+}
+.twoba{
+    margin-left:5%;
+    border: none;
+    width: 20%;
+    height: 50%;
+}
+
+.home{
+    border:none;
+    font-size: 26px;
+    font-weight: bolder;
+    color: rgb(133, 133, 133);
+    margin-left: 25%;
+}
+.twobb{
+    display: flex;
+    margin-left:2%;
+    border: none;
+    width: 22%;
+    height: 50%;
+    align-items: center;
+}
+.ptwobb{
+    border: none;
+    font-size: 26px;
+    color: rgb(133, 133, 133);
+    margin-top: -2%;
+    cursor: pointer;
+}
+
+
+.twobc{
+    margin-left:2%;
+    border: none;
+    width: auto;
+    height: 50%;
+}
+.Shop{
+    border: none;
+    font-size: 26px;
+    font-weight: bold;
+    color: rgb(133, 133, 133);
+    width: 50%;
+}
+.twobd{
+    margin-left:2%;
+    border: none;
+    width: 20%;
+    height: 50%;
+}
+.pages{
+    border: none;
+    font-size: 26px;
+    font-weight: bold;
+    color: rgb(133, 133, 133);
+    width: 45%;
+}
+.twoc{
+    align-items: center;
+    display: flex;
+    border: none;
+    height: 100%;
+    width: 20%;
+}
+.twoca {
+    display: flex;
+    border: none;
+    margin-left: 55%;
+    width: 40%;
+    height: auto;
+    background-color: rgb(213, 240, 241);
+    border-radius: 12px;
+}
+.ptwoca{
+    text-align: center;
+    padding: 4px;
+    margin-left: 8%;
+    font-size: 16px;
+}
+.twoca:hover{
+    color: white;
+    background-color: rgb(133, 220, 200);
+}
+.three{
+    display: flex;
+    margin-top: 3%;
+    border: none;
+    width: 90%;
+    height: 1100px;
+    margin-left: 5%;
+}
+.threea{
+    display: block;
+    border: none;
+    width: 75%;
+    height: 100%;
+}
+.threeaa{
+    display: flex;
+    border: none;
+    height: 25%;
+    width: 100%;
+}
+.threeab{
+    display: flex;
+    border: none;
+    border-radius: 50px;
+    height: 75%;
+    width: 100%;   
+}
+.parta-threeaa{
+    border: none;
+    width: 72%;
+    height: 100%;
+}
+.partb-threeaa{
+    border: none;
+    height: 100%;
+    width:28%;
+}
+.ppbthreeaa{
+    border: none;
+    color: rgb(142, 42, 42);
+    font-size: 12px;
+    width: auto;
+    margin-top: 8px;
+    border-radius: 50%;
+}
+.ppathreeaa{
+    font-size: 70px;
+    font-weight: bolder;
+    margin-top: -4px;
+
+}
+
+.ppathreeaa-button{
+    margin-top: -52px;
+    display: flex;
+    border: none;
+    font-size: 24px;
+    padding: 12px;
+    border-radius: 8px;
+    background-color: rgb(171, 222, 210);
+
+}
+.ppathreeaa-button:hover{
+    color: white;
+    background-color: rgb(80, 220, 173);
+}
+.threeb{
+    border: none;
+    height: 100%;
+    width: 25%;
+}
+.threeb-parta{
+    margin-top: -78%;
+    border: none;
+    margin-left: 1%;
+    height: 50%;
+    width: 98%;
+    background-image: url(fash.jpeg);
+    background-size: 100%;
+    border-radius: 32px;
+    text-align:justify;
+
+}
+.threeb-partb{
+    margin-top: -68%;
+    margin-left: 1%;
+    border: none;
+    height: 49.5%;
+    width: 98%;
+}
+.btn-pthree-parta{
+    border: none;
+    margin-left: 5%;
+    font-size: 20px;
+    padding: 12px;
+    border-radius: 12px;
+    background-color: rgb(204, 230, 224);
+}
+.btn-pthree-parta:hover{
+    color: white;
+    background-color: rgb(80, 220, 173);
+}
+.pthreeb-parta{
+    display: flex;
+    margin-left: 5%;
+    margin-top: 80%;
+    color: white;
+    font-size: 45px;
+    font-weight: bolder;
+}
+.pbthreeb-parta{
+    margin-left: 5%;
+    margin-top: -6%;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.threeb-partb{
+    background-image: url(fash2.jpg);
+    background-size: 100%;
+    border-radius: 32px;
+}
+.pone-threeb-partb{
+    margin-top: 70%;
+    font-size: 45px;
+    font-weight: bolder;
+    color: white;
+    margin-left: 5%;
+}
+.ptwo-threeb-partb{
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+    margin-left: 5%;
+    text-align: justify;
+    margin-top: -8%;
+}
+.btn-threeb-partb{
+    border: none;
+    margin-left: 5%;
+    font-size: 20px;
+    font-weight: bolder;
+    padding: 12px;
+    border-radius: 12px;
+    background-color: rgb(204, 230, 224);
+}
+.btn-threeb-partb:hover{
+    color: white;
+    background-color: rgb(80, 220, 173);
+}
+
+
+
